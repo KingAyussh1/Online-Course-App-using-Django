@@ -37,4 +37,6 @@ python3 manage.py migrate
 4. Run the server successfully this time.
 Type the below command on the terminal:
 python3 manage.py runserver
+
+Note: If you see any errors related to model migrations, you could delete the existing database db.sqlite3 and run the migrations commands again.
  
