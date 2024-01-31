@@ -1,7 +1,7 @@
 # Online-Course-App-using-Django
 
--Added course assessment feature
--Created question, choice, and submission models
+-Added course assessment feature.
+-Created question, choice, and submission models.
 -Created a new course object with exam-related models using the admin site.
 -Updated the course details template to show questions and choices.
 -Created a new exam result template to show the result of the submission.
